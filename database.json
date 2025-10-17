@@ -33,13 +33,13 @@
   { "category": "genelkultur", "key": "TWITTER", "text": "Twitter ilk olarak 2006 yılında hizmete girdi." },
   { "category": "genelkultur", "key": "TURKTELEVISYONU", "text": "TRT, Türkiye’nin ilk televizyon kanalı olarak 1968 yılında yayına başladı." },
   { "category": "genelkultur", "key": "ISTANBUL", "text": "İstanbul, tarih boyunca Roma, Bizans ve Osmanlı imparatorluklarına başkentlik yapmıştır." },
-  { "category": "genelkultur", "key": "ANKARA", "text": "Ankara, 1923 yılında Türkiye Cumhuriyeti’nin başkenti ilan edilmiştir." },
+  { "category": "tarih", "key": "ANKARA", "text": "Ankara, 1923 yılında Türkiye Cumhuriyeti’nin başkenti ilan edilmiştir." },
   { "category": "genelkultur", "key": "NEMRUT", "text": "Nemrut Dağı’ndaki heykeller, Kommagene Krallığı’na aittir." },
   { "category": "genelkultur", "key": "TROYA", "text": "Troya Antik Kenti, UNESCO Dünya Mirası Listesi’ndedir." },
-  { "category": "genelkultur", "key": "AYASOFYA", "text": "Ayasofya, Bizans döneminde kilise, Osmanlı döneminde cami, Cumhuriyet’te müze olarak kullanılmıştır." },
+  { "category": "genelkultur", "key": "AYASOFYA", "text": "Ayasofya, Bizans döneminde kilise, Osmanlı döneminde cami, Cumhuriyet’te müze olarak kullanılmıştır. 2020 yılında tekrardan cami olarak kullanılmaya başlanmıştır." },
   { "category": "genelkultur", "key": "EFES", "text": "Efes Antik Kenti, Roma döneminde Anadolu’nun en önemli liman kentlerinden biriydi." },
   { "category": "genelkultur", "key": "GOREME", "text": "Göreme Milli Parkı ve Kapadokya, 1985 yılında UNESCO Dünya Mirası Listesi’ne alınmıştır." },
-  { "category": "genelkultur", "key": "PAMUKKALE", "text": "Pamukkale travertenleri, termal suyun kireç taşları oluşturmasıyla meydana gelmiştir." },
+  { "category": "cografya", "key": "PAMUKKALE", "text": "Pamukkale travertenleri, termal suyun kireç taşları oluşturmasıyla meydana gelmiştir. Karstik oluşuma bir örnektir." },
   { "category": "genelkultur", "key": "ZEUGMA", "text": "Gaziantep’teki Zeugma Antik Kenti, mozaikleriyle ünlüdür." },
   { "category": "genelkultur", "key": "MEVLANA", "text": "Mevlana Celaleddin Rumi’nin türbesi Konya’da bulunmaktadır." },
   { "category": "genelkultur", "key": "GOTIK", "text": "Gotik mimarinin en önemli örneklerinden biri Paris’teki Notre Dame Katedrali’dir." },
@@ -47,7 +47,6 @@
   { "category": "genelkultur", "key": "MODERN", "text": "Modern mimarinin öncülerinden Le Corbusier, fonksiyonelliği estetiğin önüne koymuştur." },
   { "category": "genelkultur", "key": "OSCARFILM", "text": "Oscar’da En İyi Film ödülünü kazanan ilk renkli film 1939 yapımı 'Rüzgar Gibi Geçti'dir." },
   { "category": "genelkultur", "key": "STEVENSPIELBERG", "text": "Steven Spielberg, Jaws ve Jurassic Park filmleriyle modern sinemanın öncülerindendir." },
-  { "category": "genelkultur", "key": "TURKSINEMA", "text": "Yeşilçam dönemi, 1950–1980 yılları arasında Türk sinemasının altın çağı olarak bilinir." },
   { "category": "genelkultur", "key": "ULUSLARARASI", "text": "UNESCO, Birleşmiş Milletler’e bağlı eğitim, bilim ve kültür örgütüdür." },
   { "category": "genelkultur", "key": "INSANHAKLARI", "text": "İnsan Hakları Evrensel Bildirgesi, 1948 yılında kabul edilmiştir." },
   { "category": "genelkultur", "key": "BILISIM", "text": "Dünya Bilgisayar Günü her yıl 2 Aralık’ta kutlanır." },
@@ -56,6 +55,7 @@
   { "category": "genelkultur", "key": "UZAY", "text": "Uluslararası Uzay İstasyonu (ISS) 1998 yılında faaliyete geçmiştir." },
   { "category": "genelkultur",  "key": "TURKSAT6A",  "text": "Türkiye’nin ilk yerli iletişim uydusu Türksat 6A, 8 Temmuz 2024’te fırlatıldı ve hizmete alındı." }
 ]
+
 
 
 
